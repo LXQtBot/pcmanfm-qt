@@ -6,7 +6,7 @@
     <message>
         <location filename="../about.ui" line="14"/>
         <source>About</source>
-        <translation>Про Стискач</translation>
+        <translation>Про програму</translation>
     </message>
     <message>
         <location filename="../about.ui" line="25"/>
